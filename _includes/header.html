@@ -1,0 +1,43 @@
+<!--[if lt IE 11]>
+    <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
+<![endif]-->
+<nav class="navbar navbar-default navbar-static-top" role="navigation">
+  <div class="container">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="/index.html"><img src="/assets/img/letip-logo-web.png" alt="LeTip" /></a>
+      <h2 class="navbar-text navbar-left"><a href="/index.html" class="navbar-link">LeTip Summerlin</a></h2>
+      <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+    </div>
+    <div id="navbar" class="navbar-collapse collapse navbar-right">
+      <ul class="nav nav-pills">
+      {% if page.nav == "chapter" %}
+        <li role="presentation" {% if page.page_name == 'visitation' %}class="active"{% endif %}><a href="/chapter/">Visitation</a></li>
+        <li role="presentation" {% if page.page_name == 'calendar' %}class="active"{% endif %}><a href="/chapter/calendar.html">Calendar</a></li>
+      {% else %}
+        <li role="presentation" {% if page.page_name == 'visit' %}class="active"{% endif %}><a href="/visit.html">Attend a Meeting</a></li>
+        <li role="presentation" class="dropdown{% if page.page_name == 'members' %} active{% endif %}">
+          <a class="dropdown-toggle" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">Members <span class="caret"></span></a>
+            <ul class="dropdown-menu">
+              <li><a href="/members/"><strong>LeTip Summerlin Chapter Roster</strong></a></li>
+              <li role="separator" class="divider"></li>
+              {%- assign sorted_categories = site.data.members | sort: 'cat'  -%}
+              
+              {%- for entry in sorted_categories %}
+              {%- capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture -%}
+                {% for datum in entry.data %}
+                  <li {%- if thecycle == 'odd' %} class="{{ thecycle }}"{%- endif -%}><a href="/members/{%- if datum.bio_page %}{{ datum.bio_page }}{% endif %}">{{ entry.cat }} - <strong>{{ datum.f_name }} {{ datum.l_name }}</strong></a></li>
+                {% endfor %}
+              {% endfor %}
+            </ul>
+        </li>
+        <li role="presentation" {% if page.page_name == 'contact' %}class="active"{% endif %}><a href="/contact-us.html">Contact Us</a></li>
+      {% endif %}
+      </ul>
+    </div><!--/.navbar-collapse -->
+  </div>
+</nav>

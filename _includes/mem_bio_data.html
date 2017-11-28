@@ -1,0 +1,7 @@
+{%- for entry in site.data.members -%}
+  {% if entry.mem == page.member %}
+    {% assign mem_data = entry.data[0] %}
+    {% assign mem_cat = entry.cat %}
+  {% endif %}
+{% endfor %}
+{% capture fullname %}{{ mem_data.f_name }} {{ mem_data.l_name }}{% endcapture %}

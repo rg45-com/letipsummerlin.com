@@ -1,0 +1,242 @@
+# This is a list [].  A leading hyphen denotes a list entry.
+# Here, each entry in the list contains two hashes: "mem" and "data"
+# mem{} identifies the member in question
+# data{} contains another list (in order to iterate, at the time this is what worked)
+# data{}[] contains a hash of information relating to the member.
+#
+#   [
+#     {
+#       "mem"=>"ryan_gormley",
+#       "data"=>
+#         [
+#           {
+#             "f_name"=>"Ryan",
+#             "l_name"=>"Gormley",
+#             "cat"=>"Internet Consultant",
+#             "company"=>"Pine Point Enterprises, Inc.",
+#             "phone"=>"702-301-5812",
+#             "email"=>"ryan@rg45.com",
+#             "website"=>"rg45.com",
+#             "position"=>"Website Coordinator",
+#             "bio_page"=>"ryan_gormley.html"
+#           }
+#         ]
+#     },
+#     
+#     {
+#       "mem"=>"bill_hatler",
+#       "data"=>
+#         [
+#           {
+#             "f_name"=>"Bill",
+#             "l_name"=>"Hatler",
+#             "cat"=>"Pest Control",
+#             "company"=>"Best Way Pest Control",
+#             "phone"=>"702-341-5235",
+#             "email"=>"bill@bestwaypestcontrol.com",
+#             "website"=>"bestwaypestcontrol.com",
+#             "position"=>nil
+#           }
+#         ]
+#     }
+#   ]
+  
+- mem: ryan_gormley
+  cat: Internet Consultant
+  data:
+    - f_name: Ryan
+      l_name: Gormley
+      company: Pine Point Enterprises, Inc.
+      phone: "702-301-5812"
+      email: ryan@rg45.com
+      website: rg45.com
+      position: Website Coordinator
+      bio_page: ryan_gormley.html
+  
+- mem: bill_hatler
+  cat: Pest Control
+  data:
+    - f_name: Bill
+      l_name: Hatler
+      company: Best Way Pest Control
+      phone: "702-341-5235"
+      email: bill@bestwaypestcontrol.com
+      website: bestwaypestcontrol.com
+      position: 
+  
+- mem: alyssa_piriano
+  cat: Attorney Personal Injury
+  data:
+    - f_name: Alyssa
+      l_name: Piraino
+      company: Henness & Haight
+      phone: "702-862-8200"
+      email: alyssa@hennessandhaight.com
+      website: hennessandhaight.com
+      position: 
+  
+- mem: cheryl_ross
+  cat: Notary Public Mobile
+  data:
+    - f_name: Cheryl
+      l_name: Ross
+      company: "A#1 Document Services, LLC"
+      phone: "702-838-2235"
+      email: a1docservices@gmail.com
+      website: a1documentservices.com
+      position: Tip Master
+  
+- mem: fred_thull
+  cat: Accountant
+  data:
+    - f_name: Fred
+      l_name: Thull
+      company: Padgett Business Services
+      phone: "702-750-1115"
+      email: f.thull@padgettbusinessservices.com
+      website: smallbizpros.com/f_thull
+      position: Treasurer
+  
+- mem: jarrod_chipp
+  cat: Chiropractor
+  data:
+    - f_name: Jarrod
+      l_name: Chipp
+      company: Northwest Health Group
+      phone: "702-254-0766"
+      email: jarrodchippdc@gmail.com
+      website: lifespine.life
+      position: Program Director
+  
+- mem: joseph_durk
+  cat: Insurance Life Health and Disability
+  data:
+    - f_name: Joseph
+      l_name: Durk
+      company: Country Financial
+      phone: "702-395-3640"
+      email: joseph.durk@countryfinancial.com
+      website: countryfinancial.com/joseph.durk
+      position: Ethics Chair
+  
+- mem: kelly_gerdon
+  cat: Insurance Property and Casualty
+  data:
+    - f_name: Kelly
+      l_name: Gerdon
+      company: American Family Insurance
+      phone: "702-732-7918"
+      email: kgerdon@amfam.com
+      website: kellygerdonagency.com
+      position: Membership Chair
+  
+- mem: larry_ransom
+  cat: Financial Advisor
+  data:
+    - f_name: Larry
+      l_name: Ransom
+      company: Country Financial
+      phone: "702-395-3640"
+      email: larry.ransom@countryfinancial.com
+      website: countryfinancial.com/larry.ransom
+      position: Secretary, Past President
+  
+- mem: mari_moore
+  cat: Janitorial Services Residential
+  data:
+    - f_name: Mari
+      l_name: Moore
+      company: Moore Cleaning
+      phone: "702-292-4260"
+      email: mooremari73@gmail.com
+      website: 
+      position: Business Mixer Chair
+  
+- mem: paul_tschernia
+  cat: Mortgage Loans
+  data:
+    - f_name: Paul
+      l_name: Tschernia
+      company: AXIA Home Loans
+      phone: "702-524-2545"
+      email: paul.tschernia@axiahomeloans.com
+      website: paultschernia.axiahomeloans.com
+      position: Seminar Director
+  
+- mem: sonya_thompson
+  cat: Real Estate Residential
+  data:
+    - f_name: Sonya
+      l_name: Thompson
+      company: Keller Williams Realty Southwest
+      phone: "702-499-4071"
+      email: SonyaThompsonLV@gmail.com
+      website: SonyaThompsonLV.com
+      position: Vice President, Mentor Chair
+  
+- mem: stefanie_clement
+  cat: Attorney Wills Trusts & Estates
+  data:
+    - f_name: Stefanie
+      l_name: Clement
+      company: Clement Law Offices
+      phone: "702-341-6997"
+      email: sclement@clementlawoffices.com
+      website: clementlawoffices.com
+      position: Sgt-At-Arms, Inspector, Exit Chair
+  
+- mem: stephen_spelman
+  cat: Dentist
+  data:
+    - f_name: Stephen
+      l_name: Spelman
+      company: Willow Springs Dental
+      phone: "702-871-6044"
+      email: sspelvett@hotmail.com
+      website: stephenspelmandds.com
+      position: 
+  
+- mem: valerie_lewis
+  cat: Insurance Supplements
+  data:
+    - f_name: Valerie
+      l_name: Lewis
+      company: Aflac
+      phone: "702-274-3406"
+      email: valerie_lewis@us.aflac.com
+      website: aflac.com
+      position: Visitation Chair
+  
+- mem: kim_ventura
+  cat: Funeral
+  data:
+    - f_name: Kim
+      l_name: Ventura
+      company: Neptune Society
+      phone: "702-474-6699"
+      email: kimberly.ventura@neptune-plan.com
+      website: neptunesociety.com
+      position: 
+  
+- mem: fany_skinner
+  cat: Dry Cleaner
+  data:
+    - f_name: Fany
+      l_name: Skinner
+      company: Fany's Dry Cleaners
+      phone: "702-838-3584"
+      email: 
+      website: drycleanerandtailorsummerlin.com
+      position: 
+  
+- mem: alesa_flowers
+  cat: Credit Restoration
+  data:
+    - f_name: Alesa
+      l_name: Flowers
+      company: KBS Development Group LLC
+      phone: "702-527-4101"
+      email: alesaflowers@gmail.com
+      website: fesprotectionplan.com
+      position: President, Social Media Chair
+      bio_page: alesa_flowers.html
