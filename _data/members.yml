@@ -152,6 +152,7 @@
       email: mooremari73@gmail.com
       website: 
       position: Business Mixer Chair
+      bio_page: mari_moore.html
   
 - mem: paul_tschernia
   cat: Mortgage Loans
@@ -169,11 +170,13 @@
   data:
     - f_name: Sonya
       l_name: Thompson
+      title: "Realtor, CDPE, SFR, ABR, SRES"
       company: Keller Williams Realty Southwest
       phone: "702-499-4071"
       email: SonyaThompsonLV@gmail.com
       website: SonyaThompsonLV.com
       position: Vice President, Mentor Chair
+      bio_page: sonya_thompson.html
   
 - mem: stefanie_clement
   cat: Attorney Wills Trusts & Estates
@@ -207,6 +210,7 @@
       email: valerie_lewis@us.aflac.com
       website: aflac.com
       position: Visitation Chair
+      bio_page: valerie_lewis.html
   
 - mem: kim_ventura
   cat: Funeral
