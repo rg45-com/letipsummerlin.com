@@ -64,8 +64,8 @@
       website: bestwaypestcontrol.com
       position: 
   
-- mem: alyssa_piriano
-  cat: Attorney Personal Injury
+- mem: alyssa_piraino
+  cat: Personal Injury Attorney
   data:
     - f_name: Alyssa
       l_name: Piraino
@@ -74,9 +74,10 @@
       email: alyssa@hennessandhaight.com
       website: hennessandhaight.com
       position: 
+      bio_page: alyssa_piraino.html
   
 - mem: cheryl_ross
-  cat: Notary Public Mobile
+  cat: Mobile Notary Public
   data:
     - f_name: Cheryl
       l_name: Ross
@@ -130,6 +131,7 @@
       email: kgerdon@amfam.com
       website: kellygerdonagency.com
       position: Membership Chair
+      bio_page: kelly_gerdon.html
   
 - mem: larry_ransom
   cat: Financial Advisor
@@ -166,7 +168,7 @@
       position: Seminar Director
   
 - mem: sonya_thompson
-  cat: Real Estate Residential
+  cat: Residential Real Estate
   data:
     - f_name: Sonya
       l_name: Thompson
@@ -188,6 +190,7 @@
       email: sclement@clementlawoffices.com
       website: clementlawoffices.com
       position: Sgt-At-Arms, Inspector, Exit Chair
+      bio_page: stefanie_clement.html
   
 - mem: stephen_spelman
   cat: Dentist
