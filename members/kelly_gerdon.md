@@ -19,7 +19,7 @@ member: kelly_gerdon
       <p>Getting the right insurance to protect your dreams can be a big relief, especially if you lead a busy life and find it challenging to explore various insurance options. As your American Family insurance agent, I can help you explore options that meet your unique needs. I have been servicing Las Vegas as an American Family agent for 17 years providing protection for your Auto, Home and Business. Please call me or my expert staff with any Insurance questions.</p>
     </div>
     <div class="col-sm-4 padding-15">
-      <img src="/assets/img/blank_profile_man.png" class="img-responsive profile_img">
+      <img src="/assets/img/members/{{ page.member }}.jpg" class="img-responsive profile_img">
     </div>
 
 </div>
