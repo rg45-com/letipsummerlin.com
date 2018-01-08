@@ -40,7 +40,18 @@
 #         ]
 #     }
 #   ]
-  
+#
+# - mem: bill_hatler
+#   cat: Pest Control
+#   data:
+#     - f_name: Bill
+#       l_name: Hatler
+#       company: Best Way Pest Control
+#       phone: "702-341-5235"
+#       email: bill@bestwaypestcontrol.com
+#       website: bestwaypestcontrol.com
+#       position: 
+        
 - mem: ryan_gormley
   cat: Internet Consultant
   data:
@@ -52,17 +63,6 @@
       website: rg45.com
       position: Website Coordinator
       bio_page: ryan_gormley.html
-  
-- mem: bill_hatler
-  cat: Pest Control
-  data:
-    - f_name: Bill
-      l_name: Hatler
-      company: Best Way Pest Control
-      phone: "702-341-5235"
-      email: bill@bestwaypestcontrol.com
-      website: bestwaypestcontrol.com
-      position: 
   
 - mem: alyssa_piraino
   cat: Personal Injury Attorney
@@ -161,11 +161,13 @@
   data:
     - f_name: Paul
       l_name: Tschernia
+      title: "Sales Manager/Senior Loan Originator | NMLS# 378835"
       company: AXIA Home Loans
       phone: "702-524-2545"
       email: paul.tschernia@axiahomeloans.com
       website: paultschernia.axiahomeloans.com
       position: Seminar Director
+      bio_page: paul_tschernia.html
   
 - mem: sonya_thompson
   cat: Residential Real Estate
