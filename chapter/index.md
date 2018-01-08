@@ -17,7 +17,7 @@ nav: chapter
 
 <div class="container margin-b-30">
   <div class="wide_banner">
-    <h1>Next visitation commercials: February 6</h1>
+    <h1>Next visitation commercials: January 30</h1>
 </div>
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
