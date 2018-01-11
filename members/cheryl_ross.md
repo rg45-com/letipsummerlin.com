@@ -21,7 +21,7 @@ member: cheryl_ross
       <p>My team and I are all Bonded, Insured and certified, and we service Attorneys and Title companies as well as private parties.  We are a mobile notary service; we come to you at your convenience, 7 days a week from 7 am to midnight.</p>
     </div>
     <div class="col-sm-4 padding-15">
-      <img src="/assets/img/members/{{ page.member }}.png" class="img-responsive profile_img">
+      <img src="/assets/img/members/{{ page.member }}.jpg" class="img-responsive profile_img">
     </div>
 
 </div>

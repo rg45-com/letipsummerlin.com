@@ -229,17 +229,6 @@
       website: neptunesociety.com
       position: 
   
-- mem: fany_skinner
-  cat: Dry Cleaner
-  data:
-    - f_name: Fany
-      l_name: Skinner
-      company: Fany's Dry Cleaners
-      phone: "702-838-3584"
-      email: 
-      website: drycleanerandtailorsummerlin.com
-      position: 
-  
 - mem: alesa_flowers
   cat: Credit Restoration
   data:
