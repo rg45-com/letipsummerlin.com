@@ -200,11 +200,13 @@
   data:
     - f_name: Stephen
       l_name: Spelman
+      title: "DDS, FAGD"
       company: Willow Springs Dental
       phone: "702-871-6044"
       email: sspelvett@hotmail.com
       website: stephenspelmandds.com
       position: 
+      bio_page: stephen_spelman.html
   
 - mem: valerie_lewis
   cat: Insurance Supplements
