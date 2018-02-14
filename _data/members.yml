@@ -105,11 +105,12 @@
   data:
     - f_name: Jarrod
       l_name: Chipp
-      company: Northwest Health Group
+      company: Lifespine Back & Body Wellness
       phone: "702-254-0766"
       email: jarrodchippdc@gmail.com
       website: lifespine.life
       position: Program Director
+      bio_page: jarrod_chipp.html
   
 - mem: joseph_durk
   cat: Insurance Life Health and Disability
