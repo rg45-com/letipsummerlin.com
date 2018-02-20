@@ -22,7 +22,7 @@ nav: chapter
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
       <p>Please contact Valerie (702-274-3406 or valerie_lewis@us.aflac.com) with any issues or questions. </p>
-      <small>Last updated Jan 15, 2018</small>
+      <small>Last updated Feb 13, 2018</small>
       <table class="rwd-table">
         <tr>
           <th>Visitor</th>
