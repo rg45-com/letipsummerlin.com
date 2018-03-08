@@ -5,7 +5,7 @@ page_name: visit
 ---
 
 <div class="jumbotron jumbotron-visit">
-  <div class="container">
+  <div class="container" style="padding:20px;">
     <h1>New Members are Welcome!</h1>
     <p>Come visit us for breakfast, every Tuesday at 7:01am</p>
   </div>
@@ -39,7 +39,7 @@ page_name: visit
       </ol>
       <hr>
       <p class="h3" style="padding-top:15px;">Join us at Mimi's Cafe, South Fort Apache Road, Las Vegas, NV</p>
-      <p>1121 South Fort Apache Road</br>
+      <p>1121 South Fort Apache Road<br/>
         Las Vegas, NV 89117</p>
       <p>This place is great. The food is great. Parking in the back.</p>
     </div>
