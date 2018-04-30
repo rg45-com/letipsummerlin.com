@@ -51,6 +51,19 @@
 #       email: bill@bestwaypestcontrol.com
 #       website: bestwaypestcontrol.com
 #       position: 
+# - mem: jarrod_chipp
+#   cat: Chiropractor
+#   data:
+#     - f_name: Jarrod
+#       l_name: Chipp
+#       company: Lifespine Back & Body Wellness
+#       phone: "702-254-0766"
+#       email: jarrodchippdc@gmail.com
+#       website: lifespine.life
+#       position: Program Director
+#       bio_page: jarrod_chipp.html
+
+
         
 - mem: ryan_gormley
   cat: Internet Consultant
@@ -61,7 +74,7 @@
       phone: "702-301-5812"
       email: ryan@rg45.com
       website: rg45.com
-      position: Website Coordinator
+      position: Website Coordinator, Ethics Chair
       bio_page: ryan_gormley.html
   
 - mem: alyssa_piraino
@@ -99,19 +112,7 @@
       website: smallbizpros.com/f_thull
       position: Treasurer
       bio_page: fred_thull.html
-  
-- mem: jarrod_chipp
-  cat: Chiropractor
-  data:
-    - f_name: Jarrod
-      l_name: Chipp
-      company: Lifespine Back & Body Wellness
-      phone: "702-254-0766"
-      email: jarrodchippdc@gmail.com
-      website: lifespine.life
-      position: Program Director
-      bio_page: jarrod_chipp.html
-  
+    
 - mem: joseph_durk
   cat: Insurance Life Health and Disability
   data:
@@ -121,7 +122,7 @@
       phone: "702-395-3640"
       email: joseph.durk@countryfinancial.com
       website: countryfinancial.com/joseph.durk
-      position: Ethics Chair
+      position: Membership Chair
   
 - mem: kelly_gerdon
   cat: Insurance Property and Casualty
@@ -132,7 +133,7 @@
       phone: "702-732-7918"
       email: kgerdon@amfam.com
       website: kellygerdonagency.com
-      position: Membership Chair
+      position: Vice President
       bio_page: kelly_gerdon.html
   
 - mem: larry_ransom
@@ -144,7 +145,8 @@
       phone: "702-395-3640"
       email: larry.ransom@countryfinancial.com
       website: countryfinancial.com/larry.ransom
-      position: Secretary, Past President
+      position: Mentor Chair, Inspector, Past President
+      bio_page: larry_ransom.html
   
 - mem: mari_moore
   cat: Janitorial Services Residential
@@ -155,7 +157,7 @@
       phone: "702-292-4260"
       email: mooremari73@gmail.com
       website: 
-      position: Business Mixer Chair
+      position: Business Mixer Chair, Birthday Chair
       bio_page: mari_moore.html
   
 - mem: paul_tschernia
@@ -181,7 +183,7 @@
       phone: "702-499-4071"
       email: SonyaThompsonLV@gmail.com
       website: SonyaThompsonLV.com
-      position: Vice President, Mentor Chair
+      position: President
       bio_page: sonya_thompson.html
   
 - mem: stefanie_clement
@@ -193,7 +195,7 @@
       phone: "702-341-6997"
       email: sclement@clementlawoffices.com
       website: clementlawoffices.com
-      position: Sgt-At-Arms, Inspector, Exit Chair
+      position: Secretary, Inspector
       bio_page: stefanie_clement.html
   
 - mem: stephen_spelman
@@ -206,7 +208,7 @@
       phone: "702-871-6044"
       email: sspelvett@hotmail.com
       website: stephenspelmandds.com
-      position: 
+      position: Program Director
       bio_page: stephen_spelman.html
   
 - mem: valerie_lewis
@@ -230,7 +232,7 @@
       phone: "702-474-6699"
       email: kimberly.ventura@neptune-plan.com
       website: neptunesociety.com
-      position: 
+      position: Lunch Bunch Chair
   
 - mem: alesa_flowers
   cat: Credit Restoration
@@ -241,5 +243,16 @@
       phone: "702-527-4101"
       email: alesaflowers@gmail.com
       website: fesprotectionplan.com
-      position: President, Social Media Chair
+      position: Sgt-At-Arms, Social Media Chair, Past President
       bio_page: alesa_flowers.html
+      
+- mem: talina_punjabi
+  cat: Printer
+  data:
+    - f_name: Talina
+      l_name: Punjabi
+      company: "7 Printing and Mailing, LLC"
+      phone: "702-776-7460"
+      email: talina@7printingandmailing.com
+      website: 7printingandmailing.com
+      position:

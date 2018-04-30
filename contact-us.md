@@ -29,6 +29,7 @@ page_name: contact
           <label for="message">Message</label>
           <textarea type="text" name="message" class="form-control" id="message" placeholder="Message" rows="3"></textarea>
         </div>
+        <div data-netlify-recaptcha></div>
         <button type="submit" class="btn btn-default">Submit</button>
       </form>
     </div>
