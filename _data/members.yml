@@ -77,18 +77,6 @@
       position: Website Coordinator, Ethics Chair
       bio_page: ryan_gormley.html
   
-- mem: alyssa_piraino
-  cat: Personal Injury Attorney
-  data:
-    - f_name: Alyssa
-      l_name: Piraino
-      company: Henness & Haight
-      phone: "702-862-8200"
-      email: alyssa@hennessandhaight.com
-      website: hennessandhaight.com
-      position: 
-      bio_page: alyssa_piraino.html
-  
 - mem: cheryl_ross
   cat: Mobile Notary Public
   data:
@@ -123,6 +111,7 @@
       email: joseph.durk@countryfinancial.com
       website: countryfinancial.com/joseph.durk
       position: Membership Chair
+      bio_page: joseph_durk.html
   
 - mem: kelly_gerdon
   cat: Insurance Property and Casualty
@@ -233,18 +222,6 @@
       email: kimberly.ventura@neptune-plan.com
       website: neptunesociety.com
       position: Lunch Bunch Chair
-  
-- mem: alesa_flowers
-  cat: Credit Restoration
-  data:
-    - f_name: Alesa
-      l_name: Flowers
-      company: KBS Development Group LLC
-      phone: "702-527-4101"
-      email: alesaflowers@gmail.com
-      website: fesprotectionplan.com
-      position: Sgt-At-Arms, Social Media Chair, Past President
-      bio_page: alesa_flowers.html
       
 - mem: talina_punjabi
   cat: Printer
@@ -255,7 +232,7 @@
       phone: "702-776-7460"
       email: talina@7printingandmailing.com
       website: 7printingandmailing.com
-      position:
+      position: Sgt-At-Arms
       
 - mem: don_vitale
   cat: Handyman
@@ -266,5 +243,17 @@
       phone: "651-338-8960"
       email: handydon123@yahoo.com
       website: 
+      position: 
+      bio_page: 
+      
+- mem: kimberlee_goode
+  cat: Promotional Items
+  data:
+    - f_name: Kimberlee
+      l_name: Goode
+      company: American Stitch
+      phone: "702-233-8567"
+      email: sales@americanstitchlv.com
+      website: americanstitchlv.com
       position: 
       bio_page: 
