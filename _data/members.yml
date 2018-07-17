@@ -62,7 +62,16 @@
 #       website: lifespine.life
 #       position: Program Director
 #       bio_page: jarrod_chipp.html
-
+# - mem: talina_punjabi
+#   cat: Printer
+#   data:
+#     - f_name: Talina
+#       l_name: Punjabi
+#       company: "7 Printing and Mailing, LLC"
+#       phone: "702-776-7460"
+#       email: talina@7printingandmailing.com
+#       website: 7printingandmailing.com
+#       position: Sgt-At-Arms
 
         
 - mem: ryan_gormley
@@ -222,17 +231,7 @@
       email: kimberly.ventura@neptune-plan.com
       website: neptunesociety.com
       position: Lunch Bunch Chair
-      
-- mem: talina_punjabi
-  cat: Printer
-  data:
-    - f_name: Talina
-      l_name: Punjabi
-      company: "7 Printing and Mailing, LLC"
-      phone: "702-776-7460"
-      email: talina@7printingandmailing.com
-      website: 7printingandmailing.com
-      position: Sgt-At-Arms
+
       
 - mem: don_vitale
   cat: Handyman
