@@ -72,6 +72,17 @@
 #       email: talina@7printingandmailing.com
 #       website: 7printingandmailing.com
 #       position: Sgt-At-Arms
+# - mem: kimberlee_goode
+#   cat: Promotional Items
+#   data:
+#     - f_name: Kimberlee
+#       l_name: Goode
+#       company: American Stitch
+#       phone: "702-233-8567"
+#       email: sales@americanstitchlv.com
+#       website: americanstitchlv.com
+#       position: 
+#       bio_page: 
 
         
 - mem: ryan_gormley
@@ -242,17 +253,5 @@
       phone: "651-338-8960"
       email: handydon123@yahoo.com
       website: 
-      position: 
-      bio_page: 
-      
-- mem: kimberlee_goode
-  cat: Promotional Items
-  data:
-    - f_name: Kimberlee
-      l_name: Goode
-      company: American Stitch
-      phone: "702-233-8567"
-      email: sales@americanstitchlv.com
-      website: americanstitchlv.com
       position: 
       bio_page: 
