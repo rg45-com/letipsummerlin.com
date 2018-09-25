@@ -83,6 +83,30 @@
 #       website: americanstitchlv.com
 #       position: 
 #       bio_page: 
+#
+# - mem: kim_ventura
+#   cat: Funeral
+#   data:
+#     - f_name: Kim
+#       l_name: Ventura
+#       company: Neptune Society
+#       phone: "702-474-6699"
+#       email: kimberly.ventura@neptune-plan.com
+#       website: neptunesociety.com
+#       position: Lunch Bunch Chair
+# 
+#       
+# - mem: don_vitale
+#   cat: Handyman
+#   data:
+#     - f_name: Don
+#       l_name: Vitale
+#       company: Handyman Home Repair
+#       phone: "651-338-8960"
+#       email: handydon123@yahoo.com
+#       website: 
+#       position: 
+#       bio_page: 
 
         
 - mem: ryan_gormley
@@ -154,7 +178,7 @@
       phone: "702-395-3640"
       email: larry.ransom@countryfinancial.com
       website: countryfinancial.com/larry.ransom
-      position: Mentor Chair, Inspector, Past President
+      position: Lunch Bunch Chair, Inspector, Past President
       bio_page: larry_ransom.html
   
 - mem: mari_moore
@@ -192,7 +216,7 @@
       phone: "702-499-4071"
       email: SonyaThompsonLV@gmail.com
       website: SonyaThompsonLV.com
-      position: President
+      position: President, Mentor Chair
       bio_page: sonya_thompson.html
   
 - mem: stefanie_clement
@@ -232,26 +256,15 @@
       position: Visitation Chair
       bio_page: valerie_lewis.html
   
-- mem: kim_ventura
-  cat: Funeral
+- mem: michael_plank
+  cat: Attorney - Personal Injury
   data:
-    - f_name: Kim
-      l_name: Ventura
-      company: Neptune Society
-      phone: "702-474-6699"
-      email: kimberly.ventura@neptune-plan.com
-      website: neptunesociety.com
-      position: Lunch Bunch Chair
-
-      
-- mem: don_vitale
-  cat: Handyman
-  data:
-    - f_name: Don
-      l_name: Vitale
-      company: Handyman Home Repair
-      phone: "651-338-8960"
-      email: handydon123@yahoo.com
-      website: 
+    - f_name: Michael
+      l_name: Plank
+      title: "Esq."
+      company: Moss Berg Injury Lawyers
+      phone: "702-222-4555"
+      email: michael@mossberglv.com
+      website: mossberginjurylaw.com
       position: 
-      bio_page: 
+      bio_page: michael_plank.html
