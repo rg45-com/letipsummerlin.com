@@ -1,4 +1,4 @@
-{%- assign top_10 = "Auto Detailer|Landscape Maintenance / Contractor|HVAC (Heating/Venting & A/C)|Florist|Carpet Cleaner|Printer|Pool Service|Painter|Massage Therapist|Pest Control" | split: "|" -%}
+{%- assign top_10 = "Auto Detailer|Landscape Maintenance / Contractor|Housekeeper / Cleaner|Florist|Carpet Cleaner|Printer|Pool Service|Painter|Massage Therapist|Pest Control" | split: "|" -%}
 
 <div class="container margin-b-30">
   <div class="row">
@@ -9,7 +9,7 @@
       <p class="h2">Make 2018 the best year ever for your business!</p>
       <p class="lead">We are in need of business professionals to fill these categories:<br>
         <strong>{% for cat in top_10 | sort %}{{ cat }}
-                  {% if forloop.last == true %}{% else %} - {% endif %}
+                  {% if forloop.last == true %}{% else %} | {% endif %}
                   {%- endfor %}</strong></p>
     </div>  
   </div>

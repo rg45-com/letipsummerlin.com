@@ -107,6 +107,18 @@
 #       website: 
 #       position: 
 #       bio_page: 
+#
+# - mem: mari_moore
+#   cat: Janitorial Services Residential
+#   data:
+#     - f_name: Mari
+#       l_name: Moore
+#       company: Moore Cleaning
+#       phone: "702-292-4260"
+#       email: mooremari73@gmail.com
+#       website: 
+#       position: Business Mixer Chair, Birthday Chair
+#       bio_page: mari_moore.html
 
         
 - mem: ryan_gormley
@@ -180,18 +192,7 @@
       website: countryfinancial.com/larry.ransom
       position: Lunch Bunch Chair, Inspector, Past President
       bio_page: larry_ransom.html
-  
-- mem: mari_moore
-  cat: Janitorial Services Residential
-  data:
-    - f_name: Mari
-      l_name: Moore
-      company: Moore Cleaning
-      phone: "702-292-4260"
-      email: mooremari73@gmail.com
-      website: 
-      position: Business Mixer Chair, Birthday Chair
-      bio_page: mari_moore.html
+
   
 - mem: paul_tschernia
   cat: Mortgage Loans
