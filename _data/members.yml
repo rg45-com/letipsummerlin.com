@@ -269,3 +269,15 @@
       website: mossberginjurylaw.com
       position: 
       bio_page: michael_plank.html
+      
+- mem: marlene_aparicio
+  cat: Janitorial Services Residential
+  data:
+    - f_name: Marlene
+      l_name: Aparicio
+      company: Aparicio's Janitorial Service
+      phone: "702-443-1635"
+      email: empresaaparicio@gmail.com
+      website: 
+      position: 
+#      bio_page: mari_moore.html
