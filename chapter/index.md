@@ -17,12 +17,12 @@ nav: chapter
 
 <div class="container margin-b-30">
   <div class="wide_banner">
-    <h1>Next visitation commercials: January 29</h1>
+    <h1>Next visitation commercials: February 5th, 2019</h1>
 </div>
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
       <p>Please contact Valerie (702-274-3406 or valerie_lewis@us.aflac.com) with any issues or questions. </p>
-      <small>Last updated Dec 20, 2018</small>
+      <small>Last updated Jan 14, 2019</small>
       <table class="rwd-table">
         <tr>
           <th>Visitor</th>
@@ -47,7 +47,7 @@ nav: chapter
         </tr>
         <tr>
           <td data-th="Vistor">Joe D.</td>
-          <td data-th="Visitee">Paul T.</td>
+          <td data-th="Visitee">Marlene A.</td>
         </tr>
         <tr>
           <td data-th="Vistor">Larry R.</td>
@@ -76,10 +76,6 @@ nav: chapter
         <tr>
           <td data-th="Vistor">Stephen S.</td>
           <td data-th="Visitee">Stefanie C.</td>
-        </tr>
-        <tr>
-          <td data-th="Vistor">Paul T.</td>
-          <td data-th="Visitee">Marlene A.</td>
         </tr>
 
         
