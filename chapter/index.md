@@ -50,7 +50,7 @@ nav: chapter
           <td data-th="Visitee">Ryan G.</td>
         </tr>
         <tr>
-          <td data-th="Vistor">Joe D.</td>
+          <td data-th="Vistor">Paul T.</td>
           <td data-th="Visitee">Marlene A.</td>
         </tr>
         <tr>
@@ -80,6 +80,10 @@ nav: chapter
         <tr>
           <td data-th="Vistor">Stephen S.</td>
           <td data-th="Visitee">Stefanie C.</td>
+        </tr>
+        <tr>
+          <td data-th="Vistor">Joe D.</td>
+          <td data-th="Visitee">Paul T.</td>
         </tr>
 
         
