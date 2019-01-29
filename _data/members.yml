@@ -281,3 +281,14 @@
       website: 
       position: 
       bio_page: marlene_aparicio.html
+      
+- mem: cory_cohen
+  cat: Chiropractor
+  data:
+    - f_name: Corey
+      l_name: Cohen
+      company: Canyon Lake Neck and Back Clinic
+      phone: "702-256-2225"
+      email: frontdesk@clnb.net
+      website: activereleasechiro.com
+      position: 
