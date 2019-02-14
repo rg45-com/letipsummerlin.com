@@ -25,7 +25,7 @@ member: michael_plank
       <p>Prior to becoming an attorney Michael worked in the fitness and supplement industry. In his free time, Michael is an avid reader of non-fiction and relishes any opportunity to travel with his long-term girlfriend.</p>
     </div>
     <div class="col-sm-4 padding-15">
-      <img src="/assets/img/blank_profile_man.png" class="img-responsive profile_img">
+      <img src="/assets/img/members/michael_plank.jpg" class="img-responsive profile_img">
     </div>
 
 </div>
