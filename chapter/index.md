@@ -22,7 +22,7 @@ nav: chapter
   <div class="row">
     <div class="col-md-6 col-md-offset-3">
       <p>Please contact Valerie (702-274-3406 or valerie_lewis@us.aflac.com) with any issues or questions. </p>
-      <small>Last updated Feb 25, 2019</small>
+      <small>Last updated Mar 12, 2019</small>
       <table class="rwd-table">
         <tr>
           <th>Visitor</th>
@@ -63,7 +63,7 @@ nav: chapter
         </tr>
         <tr>
           <td data-th="Vistor">Ryan G.</td>
-          <td data-th="Visitee">Marlene A.</td>
+          <td data-th="Visitee">Stefanie C.</td>
         </tr>
         <tr>
           <td data-th="Vistor">Stephen S.</td>
@@ -72,10 +72,6 @@ nav: chapter
         <tr>
           <td data-th="Vistor">Joe D.</td>
           <td data-th="Visitee">Sonya T.</td>
-        </tr>
-        <tr>
-          <td data-th="Vistor">Marlene A.</td>
-          <td data-th="Visitee">Stefanie C.</td>
         </tr>
         <tr>
           <td data-th="Vistor">Corey C.</td>

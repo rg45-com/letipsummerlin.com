@@ -119,7 +119,17 @@
 #       website: 
 #       position: Business Mixer Chair, Birthday Chair
 #       bio_page: mari_moore.html
-
+# - mem: marlene_aparicio
+#   cat: Janitorial Services Residential
+#   data:
+#     - f_name: Marlene
+#       l_name: Aparicio
+#       company: Aparicio's Janitorial Service
+#       phone: "702-443-1635"
+#       email: empresaaparicio@gmail.com
+#       website: 
+#       position: 
+#       bio_page: marlene_aparicio.html
         
 - mem: ryan_gormley
   cat: Internet Consultant
@@ -269,18 +279,6 @@
       website: mossberginjurylaw.com
       position: 
       bio_page: michael_plank.html
-      
-- mem: marlene_aparicio
-  cat: Janitorial Services Residential
-  data:
-    - f_name: Marlene
-      l_name: Aparicio
-      company: Aparicio's Janitorial Service
-      phone: "702-443-1635"
-      email: empresaaparicio@gmail.com
-      website: 
-      position: 
-      bio_page: marlene_aparicio.html
       
 - mem: cory_cohen
   cat: Chiropractor
