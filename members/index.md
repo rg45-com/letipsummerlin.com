@@ -19,7 +19,7 @@ page_name: members
           <th nowrap>Phone</th>
           <th>Email</th>
           <th>Website</th>
-          <th>Position</th>
+          <th>Position</th>
         </tr>
         {%- assign sorted_categories = site.data.members | sort: 'cat'  -%}
         {%- for entry in sorted_categories %}

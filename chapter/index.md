@@ -38,17 +38,19 @@ nav: chapter
           <td data-th="Visitee">Joe D.</td>
         </tr>
         <tr>
-          <td data-th="Vistor">Cheryl R.</td>
+          <td data-th="Vistor">Kelly G.</td>
           <td data-th="Visitee">Valerie L.</td>
         </tr>
         <tr>
           <td data-th="Vistor">Larry R.</td>
           <td data-th="Visitee">Corey C.</td>
         </tr>
+        {%- comment -%}
         <tr>
           <td data-th="Vistor">Kelly G.</td>
           <td data-th="Visitee">Larry R.</td>
         </tr>
+        {%- endcomment -%}
         <tr>
           <td data-th="Vistor">Sonya T.</td>
           <td data-th="Visitee">Stephen S.</td>
