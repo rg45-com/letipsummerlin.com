@@ -130,6 +130,19 @@
 #       website: 
 #       position: 
 #       bio_page: marlene_aparicio.html
+#
+# - mem: sonya_thompson
+#   cat: Residential Real Estate
+#   data:
+#     - f_name: Sonya
+#       l_name: Thompson
+#       title: "Realtor, CDPE, SFR, ABR, SRES"
+#       company: Signature Real Estate
+#       phone: "702-499-4071"
+#       email: SonyaThompsonLV@gmail.com
+#       website: SonyaThompsonLV.com
+#       position: Past President, Mentor
+#       bio_page: sonya_thompson.html
         
 - mem: ryan_gormley
   cat: Internet Consultant
@@ -203,7 +216,6 @@
       position: Membership Chair, Inspector 2, Mentor
       bio_page: larry_ransom.html
 
-  
 - mem: paul_tschernia
   cat: Mortgage Loans
   data:
@@ -216,19 +228,6 @@
       website: paultschernia.axiahomeloans.com
       position: Seminar Director
       bio_page: paul_tschernia.html
-  
-- mem: sonya_thompson
-  cat: Residential Real Estate
-  data:
-    - f_name: Sonya
-      l_name: Thompson
-      title: "Realtor, CDPE, SFR, ABR, SRES"
-      company: Signature Real Estate
-      phone: "702-499-4071"
-      email: SonyaThompsonLV@gmail.com
-      website: SonyaThompsonLV.com
-      position: Past President, Mentor
-      bio_page: sonya_thompson.html
   
 - mem: stefanie_clement
   cat: Attorney Wills Trusts & Estates
@@ -291,3 +290,15 @@
       website: activereleasechiro.com
       position: 
       bio_page: corey_cohen.html
+
+- mem: jerry_shepard
+  cat: Auto Body Repair
+  data:
+    - f_name: Jerry
+      l_name: Shepard
+      company: American Collision Center
+      phone: "702-910-1993"
+      email: americancollisioncenter1910@gmail.com
+      website: 
+      position: 
+      bio_page: 
