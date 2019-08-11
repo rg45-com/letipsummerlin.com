@@ -302,3 +302,15 @@
       website: 
       position: 
       bio_page: 
+
+- mem: gustavo_chavez
+  cat: Real Estate Residential
+  data:
+    - f_name: Gustavo
+      l_name: Chavez
+      company: BHHSNV Properties
+      phone: "702-479-8906"
+      email: gustavoc@bhhsnv.com
+      website: teamchavezlv.com
+      position: 
+      bio_page: gustavo_chavez.html
