@@ -308,6 +308,7 @@
   data:
     - f_name: Gustavo
       l_name: Chavez
+      title: "VA Certified Agent"
       company: BHHSNV Properties
       phone: "702-479-8906"
       email: gustavoc@bhhsnv.com
