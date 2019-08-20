@@ -189,7 +189,7 @@
       phone: "702-395-3640"
       email: joseph.durk@countryfinancial.com
       website: countryfinancial.com/joseph.durk
-      position: Business Mixer Chair
+      position: 
       bio_page: joseph_durk.html
   
 - mem: kelly_gerdon
@@ -226,7 +226,7 @@
       phone: "702-524-2545"
       email: paul.tschernia@axiahomeloans.com
       website: paultschernia.axiahomeloans.com
-      position: Seminar Director
+      position: Seminar Director, Business Mixer Chair
       bio_page: paul_tschernia.html
   
 - mem: stefanie_clement
@@ -251,7 +251,7 @@
       phone: "702-871-6044"
       email: sspelvett@hotmail.com
       website: stephenspelmandds.com
-      position: Program Director
+      position: 
       bio_page: stephen_spelman.html
   
 - mem: valerie_lewis
@@ -272,11 +272,11 @@
     - f_name: Michael
       l_name: Plank
       title: "Esq."
-      company: Moss Berg Injury Lawyers
-      phone: "702-222-4555"
-      email: michael@mossberglv.com
-      website: mossberginjurylaw.com
-      position: 
+      company: Hicks & Brasier
+      phone: "702-628-9888"
+      email: mplank@lvattorneys.com
+      website: lvattorneys.com
+      position: Program Director
       bio_page: michael_plank.html
       
 - mem: corey_cohen
@@ -315,3 +315,16 @@
       website: teamchavezlv.com
       position: 
       bio_page: gustavo_chavez.html
+
+- mem: sandy_scheppmann
+  cat: Escrow Agent
+  data:
+    - f_name: Sandy
+      l_name: Scheppmann
+      title: "Escrow Officer"
+      company: OS National
+      phone: "702-790-3148"
+      email: sandy@osnational.com
+      website: osnational.com
+      position: 
+      bio_page: 
