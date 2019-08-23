@@ -11,7 +11,6 @@ member: ryan_gormley
   </div>
 
     <div class="col-sm-8 padding-15">
-      <h3></h3>
       <p class="subtitle">{{ mem_data.company }}</p>
       <p class="phone"><i class="fa fa-phone-square"></i> {{ mem_data.phone }}</p>
       <p class="email"><i class="fa fa-envelope"></i> {{ mem_data.email }}</p>
