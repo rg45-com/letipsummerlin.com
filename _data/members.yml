@@ -291,18 +291,6 @@
       position: 
       bio_page: corey_cohen.html
 
-- mem: jerry_shepard
-  cat: Auto Body Repair
-  data:
-    - f_name: Jerry
-      l_name: Shepard
-      company: American Collision Center
-      phone: "702-910-1993"
-      email: americancollisioncenter1910@gmail.com
-      website: 
-      position: 
-      bio_page: 
-
 - mem: gustavo_chavez
   cat: Real Estate Residential
   data:
