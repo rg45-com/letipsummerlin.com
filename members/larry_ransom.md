@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Larry Ransom - Financial Advisor | LeTip Summerlin
+title: Larry Ransom - Financial Representative | LeTip Summerlin
 page_name: members
 member: larry_ransom
 ---
