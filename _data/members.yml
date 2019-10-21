@@ -329,3 +329,16 @@
       website: viveclean.com
       position: 
       bio_page: 
+
+- mem: matt_veale
+  cat: Auto Body Repair
+  data:
+    - f_name: Matt
+      l_name: Veale
+      title: 
+      company: ABC Auto Body
+      phone: "702-248-7200"
+      email: 
+      website: abcautobodylv.com
+      position: 
+      bio_page: 
