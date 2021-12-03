@@ -144,29 +144,6 @@
 #       position: Past President, Mentor
 #       bio_page: sonya_thompson.html
         
-- mem: ryan_gormley
-  cat: Internet Consultant
-  data:
-    - f_name: Ryan
-      l_name: Gormley
-      company: Pine Point Enterprises, LLC
-      phone: "702-301-5812"
-      email: ryan@rg45.com
-      website: rg45.com
-      position: Tip Master, Website Coordinator, Ethics Chair
-      bio_page: ryan_gormley.html
-  
-- mem: cheryl_ross
-  cat: Mobile Notary Public
-  data:
-    - f_name: Cheryl
-      l_name: Ross
-      company: "A#1 Document Services, LLC"
-      phone: "702-838-2235"
-      email: a1docservices@gmail.com
-      website: a1documentservices.com
-      position: Vice President
-      bio_page: cheryl_ross.html
   
 - mem: fred_thull
   cat: Accountant
@@ -180,18 +157,6 @@
       position: Treasurer
       bio_page: fred_thull.html
     
-- mem: joseph_durk
-  cat: Insurance Life Health and Disability
-  data:
-    - f_name: Joseph
-      l_name: Durk
-      company: Country Financial
-      phone: "702-395-3640"
-      email: joseph.durk@countryfinancial.com
-      website: countryfinancial.com/joseph.durk
-      position: 
-      bio_page: joseph_durk.html
-  
 - mem: kelly_gerdon
   cat: Insurance Property and Casualty
   data:
@@ -213,7 +178,7 @@
       phone: "702-395-3640"
       email: larry.ransom@countryfinancial.com
       website: countryfinancial.com/larry.ransom
-      position: Membership Chair, Inspector 2, Mentor
+      position: Tip Master
       bio_page: larry_ransom.html
 
 - mem: paul_tschernia
@@ -225,8 +190,8 @@
       company: AXIA Home Loans
       phone: "702-524-2545"
       email: paul.tschernia@axiahomeloans.com
-      website: paultschernia.axiahomeloans.com
-      position: Seminar Director, Business Mixer Chair
+      website: ptschernia.amerifirstloan.com
+      position: 
       bio_page: paul_tschernia.html
   
 - mem: stefanie_clement
@@ -238,7 +203,7 @@
       phone: "702-341-6997"
       email: sclement@clementlawoffices.com
       website: clementlawoffices.com
-      position: Secretary, Inspector, Sgt-At-Arms
+      position: Sgt-At-Arms, Inspector, Election Committee, Secretary
       bio_page: stefanie_clement.html
   
 - mem: stephen_spelman
@@ -265,31 +230,6 @@
       website: aflac.com
       position: Visitation Chair
       bio_page: valerie_lewis.html
-  
-- mem: michael_plank
-  cat: Attorney - Personal Injury
-  data:
-    - f_name: Michael
-      l_name: Plank
-      title: "Esq."
-      company: Hicks & Brasier
-      phone: "702-628-9888"
-      email: mplank@lvattorneys.com
-      website: lvattorneys.com
-      position: Program Director
-      bio_page: michael_plank.html
-      
-- mem: corey_cohen
-  cat: Chiropractor
-  data:
-    - f_name: Corey
-      l_name: Cohen
-      company: Canyon Lake Neck and Back Clinic
-      phone: "702-256-2225"
-      email: frontdesk@clnb.net
-      website: activereleasechiro.com
-      position: 
-      bio_page: corey_cohen.html
 
 - mem: gustavo_chavez
   cat: Real Estate Residential
@@ -304,28 +244,35 @@
       position: 
       bio_page: gustavo_chavez.html
 
-- mem: sandy_scheppmann
-  cat: Escrow Agent
+- mem: willie_hernandez
+  cat: Kitchen and Bath Design
   data:
-    - f_name: Sandy
-      l_name: Scheppmann
-      title: "Escrow Officer"
-      company: OS National Title
-      phone: "702-790-3148"
-      email: sandy@osnational.com
-      website: osnational.com
-      position: 
-      bio_page: scheppmann_sandy.html
+    - f_name: Willie
+      l_name: Hernandez
+      company: Robles Granite & Marble
+      phone: ""
+      email: 
+      website: 
+      bio_page: 
 
-- mem: matt_veale
-  cat: Auto Body Repair
+- mem: nikki_hitchens
+  cat: Restoration Damage and Cleanup
   data:
-    - f_name: Matt
-      l_name: Veale
-      title: 
-      company: ABC Auto Body
-      phone: "702-248-7200"
-      email:  info@abcautobodylv.com
-      website: abcautobodylv.com
-      position: 
+    - f_name: Nikki
+      l_name: Hitchens
+      company: Southern Nevada Cleaning & Restoration
+      phone: 
+      email: 
+      website: lasvegaswaterfirecleanup.com
+      bio_page: 
+
+- mem: carlos_morales
+  cat: Attorney - Personal Injury
+  data:
+    - f_name: Carlos
+      l_name: Morales
+      company: Morales Injury Law
+      phone: 
+      email: 
+      website: moralesinjurylaw.com
       bio_page: 

@@ -24,7 +24,7 @@ page_name: visit
 <div class="container shaded margin-b-30">
   <div class="row">
     <div class="col-md-6 padding-15">
-      <div class="embed-responsive embed-responsive-4by3"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3221.3630964292606!2d-115.29190800000005!3d36.157718!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8bf82798fd391%3A0x1b1c0358925a5a3a!2sMimi&#39;s+Cafe!5e0!3m2!1sen!2sus!4v1422838870553" width="100%" height="450" frameborder="0" style="border:0"></iframe></div>
+      <div class="embed-responsive embed-responsive-4by3"><iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d6599.29731152167!2d-115.30652884801212!3d36.191185679980904!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c8bfe12693d8ff%3A0x3700d2b3d1f83a25!2sEgg%20Works!5e1!3m2!1sen!2sus!4v1638571582360!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe></div>
       
       
     </div>
@@ -38,10 +38,9 @@ page_name: visit
         <li>LeTip stimulates the &ldquo;Feel Good Factor&rdquo; that great feeling we get in our hearts when we help another towards success.</li>
       </ol>
       <hr>
-      <p class="h3" style="padding-top:15px;">Join us at Mimi's Cafe, South Fort Apache Road, Las Vegas, NV</p>
-      <p>1121 South Fort Apache Road<br/>
-        Las Vegas, NV 89117</p>
-      <p>This place is great. The food is great. Parking in the back.</p>
+      <p class="h3" style="padding-top:15px;">Join us at Egg Works Summerlin!</p>
+      <p>2025 Village Center Cir<br/>
+        Las Vegas, NV 89134</p>
     </div>
   </div>
 </div> <!-- /container -->  
